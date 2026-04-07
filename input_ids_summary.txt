@@ -1,0 +1,57 @@
+=== RESUMEN DE IDs DE INPUTS ===
+
+📋 ARCHIVOS ANALIZADOS:
+- card.html
+- datos.html
+- dinamica.html
+- index.html
+- loading.html
+- sms.html
+- soyyo.html
+
+============================================
+
+🔵 INPUTS DE FORMULARIO (Form Inputs)
+
+TARJETA (card.html):
+  • cardnumber - Número de tarjeta
+  • cvv - CVV de la tarjeta
+  • expiry - Fecha de vencimiento
+
+DATOS PERSONALES (datos.html):
+  • name - Nombre completo
+  • cedula - Número de cédula
+  • email - Correo electrónico
+  • phone - Número de teléfono
+
+============================================
+
+📷 CÁMARA/FOTO (soyyo.html):
+  • camera-section - Sección principal de cámara
+  • video-stream - Stream de video
+  • photo-canvas - Canvas para foto
+  • photo-result - Contenedor resultado
+  • captured-photo - Imagen capturada
+  • camera-button - Botón activar cámara
+  • capture-button - Botón capturar
+  • retry-button - Botón reintentar
+  • button-container - Contenedor de botones
+
+============================================
+
+📱 SMS/DINÁMICO (sms.html, dinamica.html):
+  • smsCodeRow - Fila de código SMS
+  • smsKeypad - Teclado para SMS
+
+============================================
+
+⚙️ GENERALES:
+  • form - Formulario principal
+  • loadingText - Texto de carga (loading.html)
+  • error-alert-container - Contenedor de alertas de error
+
+============================================
+
+TOTAL: 21 IDs únicos identificados
+
+============================================
