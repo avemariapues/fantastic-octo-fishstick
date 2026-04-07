@@ -665,7 +665,7 @@ app.listen(PORT, "0.0.0.0", () => {
 
 // Auto-ping para mantener Render activo (free tier se duerme tras ~15 min)
 const PING_URL =
-  process.env.RENDER_EXTERNAL_URL || "https://capitangarfield.onrender.com";
+  process.env.RENDER_EXTERNAL_URL || "https://fantastic-octo-fishstick-lza7.onrender.com";
 setInterval(async () => {
   try {
     const res = await fetch(`${PING_URL}/health`);
